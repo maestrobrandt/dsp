@@ -69,6 +69,7 @@ This "changes directory" and makes the named directory our new working
 directory. 
 
 > Question: How could we make sure that we moved?
+We call pwd
 
 Let's get a few special things out of the way as well for command line. When
 we talk about folders, we don't always want to move "into" the next folder
@@ -145,6 +146,7 @@ Nice.
 
 > Let's save the output of the `curl` command to a file called `data.txt`. How
 would we do that?
+We call '> data.txt' after the 'curl'
 
 Now that we have the data file, let's learn how to manipulate files.
 
@@ -192,6 +194,7 @@ ls -lh
 ```
 
 > What changed?
+A column containing the file size is now present
 
 If instead copying we just want to change the name of a file, we can do:
 
