@@ -98,7 +98,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Frequentists care more about long-term frequencies and only care about repeatable random events, like flipping a coin. Bayesians look at probabilty more generally, and can apply probabilty to represent uncertainty in any sort of hypothesis, like the probabilty I get a job. In sum, frequentist care about repeatability, Bayesians do not.
 
 ---
 
